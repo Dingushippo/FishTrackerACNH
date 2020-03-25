@@ -1,0 +1,80 @@
+Bitterling; 900
+Pale chub; 160
+Crucian carp; 160
+Dace; 240
+Carp; 300
+Koi; 4000
+Goldfish; 1300
+Pop-eyed Goldfish; 1300
+Ranchu Goldfish; 4500
+Killifish; 0
+Crawfish; 200
+Soft-shelled Turtle; 3750
+Snapping Turtle; 5000
+Tadpole; 100
+Frog; 0
+Freshwater Goby; 400
+Loach; 400
+Catfish; 800
+Giant snakehead; 0
+Bluegill; 180
+Yellow perch; 300
+Black bass; 400
+Tilapia; 800
+Pike; 1800
+Pond smelt; 0
+Sweetfish; 900
+Cherry Salmon; 1000
+Char; 3800
+Golden Trout; 15000
+Stringfish; 15000
+Salmon; 700
+King Salmon; 1800
+Mitten Crab; 2000
+Guppy; 0
+Nibble Fish; 1500
+Angelfish; 3000
+Betta; 2500
+Neon tetra; 500
+Rainbowfish; 800
+Piranha; 2500
+Arowana; 10000
+Dorado; 15000
+Gar; 6000
+Arapaima; 10000
+Saddled Bichir; 4000
+Sturgeon; 10000
+Sea butterfly; 1000
+Seahorse; 1100
+Clownfish; 650
+Surgeonfish; 1000
+Butterfly fish; 1000
+Napoleonfish; 10000
+Zebra turkeyfish; 500
+Blowfish; 0
+Puffer fish; 250
+Anchovy; 200
+Horse mackerel; 150
+Barred knifejaw; 5000
+Sea bass; 400
+Red snapper; 3000
+Dab; 300
+Olive flounder; 800
+Squid; 500
+Moray eel; 2000
+Ribbon eel; 600
+Tuna; 7000
+Blue marlin; 10000
+Giant Trevally; 0
+Mahi-mahi; 6000
+Ocean Sunfish; 4000
+Ray; 3000
+Saw Shark; 12000
+Hammerhead Shark; 8000
+Great White Shark; 15000
+Whale shark; 13000
+Suckerfish; 1500
+Football fish; 1500
+Oarfish; 9000
+Barreleye; 15000
+Coelacanth; 15000
