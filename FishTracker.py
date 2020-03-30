@@ -14,6 +14,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tessera
 print('Start')
 
 def run():
+    init()
     active = True
     while True:
         if active:
@@ -55,7 +56,7 @@ def init():
 
 
 def testImage():
-    camera = cv2.VideoCapture('https://192.168.1.11:8080/video')
+    camera = cv2.VideoCapture('https://192.168.1.9:8080/video')
     r, img = camera.read()
     cv2.imwrite('testImage.jpg', img)
     imgText = pytesseract.image_to_string(Image.open('testImage.jpg')).lower()
@@ -108,11 +109,8 @@ def inventoryValue():
     return val
 
 def getImageText():
-    camera = cv2.VideoCapture('https://192.168.1.11:8080/video')
+    camera = cv2.VideoCapture('https://192.168.1.9:8080/video')
     r, img = camera.read()
     cv2.imwrite('fish.jpg', img)
     return pytesseract.image_to_string(Image.open('fish.jpg')).lower()
         
-def if __name__ == "__main__":
-    init()
-    run()
